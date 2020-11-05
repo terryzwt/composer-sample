@@ -1,0 +1,14 @@
+{
+    "name": "terryzwt/composer-sample",
+    "description": "composer sample",
+    "type": "library",
+    "require": {
+        "monolog/monolog": "^2.1"
+    },
+    "authors": [
+        {
+            "name": "terry zhang",
+            "email": "zterry@qq.com"
+        }
+    ]
+}
